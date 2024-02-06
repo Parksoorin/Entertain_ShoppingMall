@@ -24,7 +24,7 @@ Backend : Java Spring
 <br><br><br>
 
 ### 프로젝트 관리 방안
-![관리](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/d3d7fe3f-6145-459c-8f51-07a637330454)
+![관리2](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/dd0c8485-057b-4ced-a64e-3b12e82c5dcb)
 <br><br><br>
 
 
@@ -34,4 +34,18 @@ Backend : Java Spring
 
 
 ### 전체 시장 현황
+![시장현황 1](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/195614cb-8ede-442b-b073-04d9f05f34a6)
+<br>
+- 트위터 언급량 증가<br>
+공동 구매, 아이돌 굿즈 등 트위터에서 언급량이 꾸준하게 증가하는 추세에 있다. 이는 굿즈에 대한 대중의 관심이 증가한다고 볼 수 있다. 
+<br>
 
+![시장현황 2](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/36fca1fb-c211-4ec4-8c06-4feaf4126553)
+<br>
+- 연예인 브랜드 상표 출원 횟수 증가<br>
+아이돌 굿즈 시장이 커지면서 상표 출원 수가 커지고 있다. 이는 차후 기획사의 적극적인 아이돌 굿즈 시장 참여의사를 반영한다고 해석이 가능하다. 
+
+<br><br><br>
+### 작업 분할 구조도(WBS : Work Breakdown Structure )
+![작업분할구조도](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/8c64cd8d-844a-4c52-b8ee-f9b58fde68d9)
+<br><br><br>
