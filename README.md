@@ -24,3 +24,4 @@ Backend : Java Spring
 <br><br><br>
 
 ### 프로젝트 관리 방안
+![관리](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/d3d7fe3f-6145-459c-8f51-07a637330454)
