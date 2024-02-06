@@ -1,6 +1,26 @@
-<h1>Entertain_ShoppingMall</h1>
+# Entertain_ShoppingMall
 아이돌 굿즈 구매 사이트
+<br><br><br>
 
-<br><br>
+### 역할
+- 박수린 : 웹 프론트엔드
+- 권하영 : 웹 프론트엔드
+- 김혜민 : 웹 프론트엔드
+- 조지민 : 웹 디자인
+- 유형찬 : 백엔드
+<br><br><br>
 
-<h2>팀원</h2>
+### 개발 환경
+Front : Html , CSS 
+Backend : Java Spring
+<br><br><br>
+
+### 개발 내용
+- Html, Spring boot를 이용한 Entertainment Shoppingmall Platform 구축 
+- Favorite Artist를 통한 굿즈 추천
+- Entertainment 등록 시스템으로 중소 엔터 참여 활성화 유도  
+- 타 Platform에서 진행하지 않고 있는 Ticket 구매 기능 
+- 로그인한 사용자 상품 리뷰 및 구매, Admin 상품 등록 및 판매 
+<br><br><br>
+
+### 프로젝트 관리 방안
