@@ -25,3 +25,13 @@ Backend : Java Spring
 
 ### 프로젝트 관리 방안
 ![관리](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/d3d7fe3f-6145-459c-8f51-07a637330454)
+<br><br><br>
+
+
+### 프로젝트 일정 계획
+![일정](https://github.com/Parksoorin/Entertain_ShoppingMall/assets/101718825/ee5e2a87-1c34-4793-94ce-6aa93f322df1)
+<br><br><br>
+
+
+### 전체 시장 현황
+
